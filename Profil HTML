@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<title>Tugas Pemrograman Jaringan dan Web | Profil Kelompok </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+.right{
+text-align:right;
+}
+.left{
+text-align:left;
+}
+.center{
+text-align:center;
+color:red;
+background-color:blue;
+background:url(Untitled.png);}
+.header{
+text-align:center;
+font-size:24;
+color:green;
+}
+.red{
+background-color:red;}
+.button {
+  display: inline-block;
+  padding: 10px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;	
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.center2{
+text-align:center;}
+tr.spaceUnder > td
+{
+  padding-bottom: 1em;
+}
+.dropbtn {
+    background-color: red;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+.padding {
+    padding: 2cm;
+}
+</style>
+<body>
+
+<!-- Header -->
+<header class="center">
+  <div class="center">
+  <h4 class="header">Welcome!!</h4>
+  <h1 class="header">PROFIL</h1>
+    <div class="padding">
+      <button class="button" onclick="document.getElementById('id01').style.display='block'" style="font-weight:900;">Tap To View Our Description</button>
+    </div>
+  </div>
+</header>
+
+<!-- mulai 8 foto profil -->
+
+<header class = "center2">
+Nama
+</header
+
+<!-- END of 8 foto profil -->
+
+
+
+<hr>
+<div class="center2">
+  <h2>Bla2</h2>
+  <p class="center2">blablabal</p>
+</div>
+<br>
+
+
+
+
+<div class="center2">
+  <h2>Our Company</h2>	
+  <p>blablablablablabla</p>
+  
+  <h2>Profil</h2>
+  <p>Kami adalah.....</p>
+  <p>dan juga...</p>
+  <br>
+</div>   
+
+<div class="center2">
+ <h2>This Map of Our Company</h2>	
+ 
+ <img src="map.jpg">
+ <br>
+</div>
+
+
+
+
+<div class="padding"> 
+
+</div>
+
+<div class="padding">
+
+</div>
+
+<div class="left">
+<div class="dropdown">
+  <button class="dropbtn">Daftar BOS</i></button>
+  <div class="dropdown-content">
+    <a href="javascript:void(0)">Nama 1</a>
+    <a href="javascript:void(0)">Nama 2</a>
+    <a href="javascript:void(0)">Nama 3</a>
+  </div>
+</div>
+</div>
+
+
+<!-- Footer -->
+<footer class="red">
+<div class="right">
+  <h3>Nama Kelompok</h3>
+  <p>Remember to check out our&nbsp;&nbsp;<a href="red.html" class="button">Kelompok</a>
+  </p>
+  <p>
+  Universitas Gadjah Mada<br>
+  Profil : Company<br>
+  Jalan Grafika No. 2 Yogyakarta</p>
+  </div>
+</footer>
+
+</body>
+</html>
