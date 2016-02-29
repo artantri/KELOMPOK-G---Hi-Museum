@@ -42,6 +42,7 @@
 .gold{background-color:#ffd700;}
 .silver{background-color:#c00;}
 .hover-blue:hover{color:#fff;background-color:#2196F3 }
+.hover-kuning:hover{color:#fff;background-color:#cddc39 }
 .button { display: inline-block; padding: 10px 25px; font-size: 16px; cursor: pointer; text-align: center;text-decoration: none; outline: none; color: black; background-color: #ffd700; border: none; border-radius: 15px; box-shadow: 0 9px #999; }
 .btn,.btn-block{border:none;display:inline-block;outline:0;padding:6px 16px;vertical-align:middle;overflow:hidden;text-decoration:none !important;color:#fff;background-color:#c00;text-align:center;cursor:pointer;white-space:nowrap}
 .btn.disabled,.btn-block.disabled,.btn-floating.disabled,.btn:disabled,.btn-floating:disabled,.btn-floating-large.disabled,.btn-floating-large:disabled{cursor:not-allowed;opacity:0.3}
