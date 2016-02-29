@@ -80,7 +80,7 @@ transform: translateY(4px); }
 .large{font-size: 18px}
 .m-black{color: #ffd700;background-color: black}
 .navbar {list-style-type:none;margin:0;padding:0;overflow:hidden;}.navbar li{float:left}.navbar li a{display:block;padding:8px 16px}.navbar li a:hover{color:#000;background-color:#ccc}.navbar a{text-decoration:none}
-
+footer {color:white}
 
 
 
