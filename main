@@ -22,8 +22,8 @@
 
 <div class="row-padding center margin-top">
 <div class="quarter">
-  <div class="card-2 padding-top hover-blue" style="min-height:400px">
-  <a class="btn large red" style="font-weight:500;" href="setunggal.html">Nama Pertama</a>
+  <div class="card-2 padding-top hover-blue" style="min-height:250px">
+  <a class="btn large red" style="font-weight:500;" href="setunggal.html">Ade Anlika</a>
   <hr>
   <img class="center2" src="a.png" style="width:160px;height:150px;">
   <p>Built-in responsiveness</p>
@@ -33,35 +33,26 @@
 </div>
 
 <div class="quarter">
-  <div class="card-2 padding-top hover-blue" style="min-height:400px">
-  <a class="btn large red" style="font-weight:500;" href="setunggal.html">Nama Kedua</a>
+  <div class="card-2 padding-top hover-blue" style="min-height:250px">
+  <a class="btn large red" style="font-weight:500;" href="setunggal.html">Friska Rani</a>
   <hr>
-  <img class="center2" src="b.png" style="width:160px;height:150px;">
-  <p>Built-in responsiveness</p>
-  <p>Mobile first fluid grid</p>
-  <p>Fits any screen sizes</p>
+  <img class="center2" src="IMG_4405.jpg" style="width:160px;height:150px;">
   </div>
 </div>
 
 <div class="quarter">
-  <div class="card-2 padding-top hover-blue" style="min-height:400px">
-  <a class="btn large red" style="font-weight:500;" href="setunggal.html">Nama Ketiga</a>
+  <div class="card-2 padding-top hover-blue" style="min-height:250px">
+  <a class="btn large red" style="font-weight:500;" href="setunggal.html">M. Adib</a>
   <hr>
-  <img class="circle" src="c.jpg" style="width:160px;height:150px;">
-  <p>Built-in responsiveness</p>
-  <p>Mobile first fluid grid</p>
-  <p>Fits any screen sizes</p>
+  <img class="circle" src="a.jpg" style="width:160px;height:150px;">
   </div>
 </div>
 
 <div class="quarter">
-  <div class="card-2 padding-top hover-blue" style="min-height:400px">
-  <a class="btn large red" style="font-weight:500;" href="setunggal.html">Nama Keempat</a>
+  <div class="card-2 padding-top hover-blue" style="min-height:250px">
+  <a class="btn large red" style="font-weight:500;" href="setunggal.html">Berlianto Yusuf</a>
   <hr>
-  <img class="circle" src="d.jpg" style="width:160px;height:150px;">
-  <p>Built-in responsiveness</p>
-  <p>Mobile first fluid grid</p>
-  <p>Fits any screen sizes</p>
+  <img class="circle" src="Ber.jpg" style="width:160px;height:150px;">
   </div>
 </div>
 
@@ -69,46 +60,34 @@
 
 <div class="row-padding center margin-top">
 <div class="quarter">
-  <div class="card-2 padding-top hover-blue" style="min-height:400px">
+  <div class="card-2 padding-top hover-blue" style="min-height:250px">
   <a class="btn large red" style="font-weight:500;" href="setunggal.html">Nama Kelima</a>
   <hr>
   <img class="circle" src="e.png" style="width:160px;height:150px;">
-  <p>Built-in responsiveness</p>
-  <p>Mobile first fluid grid</p>
-  <p>Fits any screen sizes</p>
   </div>
 </div>
 
 <div class="quarter">
-  <div class="card-2 padding-top hover-blue" style="min-height:400px">
+  <div class="card-2 padding-top hover-blue" style="min-height:250px">
   <a class="btn large red" style="font-weight:500;" href="setunggal.html">Nama Keenam</a>
   <hr>
   <img class="circle" src="g.png" style="width:160px;height:150px;">
-  <p>Built-in responsiveness</p>
-  <p>Mobile first fluid grid</p>
-  <p>Fits any screen sizes</p>
   </div>
 </div>
 
 <div class="quarter">
-  <div class="card-2 padding-top hover-green" style="min-height:400px">
+  <div class="card-2 padding-top hover-green" style="min-height:250px">
   <a class="btn large red" style="font-weight:500;" href="setunggal.html">Nama Tujuh</a>
   <hr>
   <img class="circle" src="f.png" style="width:160px;height:150px;">
-  <p>Built-in responsiveness</p>
-  <p>Mobile first fluid grid</p>
-  <p>Fits any screen sizes</p>
   </div>
 </div>
 
 <div class="quarter">
-  <div class="card-2 padding-top hover-blue" style="min-height:400px">
+  <div class="card-2 padding-top hover-blue" style="min-height:250px">
   <a class="btn large red" style="font-weight:500;" href="setunggal.html">Nama Delapan</a>
   <hr>
   <img class="circle" src="h.png" style="width:160px;height:150px;">
-  <p>Built-in responsiveness</p>
-  <p>Mobile first fluid grid</p>
-  <p>Fits any screen sizes</p>
   </div>
 </div>
 
