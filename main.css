@@ -70,6 +70,15 @@ radius:50%;cursor:pointer;font-size:24px}
 
 transform: translateY(4px); }
 
+<!--Ade-->
+.padding {padding: 2cm;}
+.row-padding:after{content:"";display:table;clear:both}
+.row-padding,.row-padding>.half,.-row-padding>.third,.row-padding>.twothird,.row-padding>.quarter,.row-padding>.col{padding:0 8px}
+.padding-top{padding-top:8px}
+
+
+
+
 <!---Adib-->
 input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}
 fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}
