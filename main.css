@@ -76,6 +76,12 @@ transform: translateY(4px); }
 .row-padding,.row-padding>.half,.-row-padding>.third,.row-padding>.twothird,.row-padding>.quarter,.row-padding>.col{padding:0 8px}
 .padding-top{padding-top:8px}
 
+.top{position: fixed;width: 100%;z-index: 1}.top{top: 0}
+.large{font-size: 18px}
+.m-black{color: #ffd700;background-color: black}
+.navbar {list-style-type:none;margin:0;padding:0;overflow:hidden;}.navbar li{float:left}.navbar li a{display:block;padding:8px 16px}.navbar li a:hover{color:#000;background-color:#ccc}.navbar a{text-decoration:none}
+
+
 
 
 
